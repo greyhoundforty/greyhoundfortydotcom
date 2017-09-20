@@ -6,9 +6,13 @@ You've reached the personal (micro) blog of Ryan Tiffany. This site will mainly 
 
 You can also find me haunting the following places around the internet:
 
-[the tinylab](https://tinylab.info) - This is another site I keep. If you like macOS and Nix tutorials, feel free to give it a click. 
-[twitter](https://twitter.com/ryantiffany)
-[github](https://github.com/greyhoundforty)  
-[instagram](https://www.instagram.com/greyhound40/)  
-[spotify](https://open.spotify.com/user/rtiffany77)   
+* [the tinylab](https://tinylab.info) - If you like macOS and Nix tutorials, feel free to give it a click.  
+
+* [twitter](https://twitter.com/ryantiffany)
+
+* [github](https://github.com/greyhoundforty)  
+
+* [instagram](https://www.instagram.com/greyhound40/)  
+
+* [spotify](https://open.spotify.com/user/rtiffany77)   
 
