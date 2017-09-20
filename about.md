@@ -2,8 +2,13 @@
 title: About me
 ---
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend.
+You've reached the personal (micro) blog of Ryan Tiffany. This site will mainly contain small posts similar to something like Tumblr. Expect to see lots of music and video links along with the occassional rant about anything and everything that is on my mind. 
 
-Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi.
+You can also find me haunting the following places around the internet:
 
-Find me on [GitHub](https://github.com/muan) or [Twitter](https://twitter.com/muanchiou).
+[the tinylab](https://tinylab.info) - This is another site I keep. If you like macOS and Nix tutorials, feel free to give it a click. 
+[twitter](https://twitter.com/ryantiffany)
+[github](https://github.com/greyhoundforty)  
+[instagram](https://www.instagram.com/greyhound40/)  
+[spotify](https://open.spotify.com/user/rtiffany77)   
+
