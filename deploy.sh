@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 app=hyperjekyll
-apphome="$HOME/Repos/greyhoundfortydotcom"
+apphome='$HOME/Repos/greyhoundfortydotcom'
 
 if [[ $(hyper ps -q --filter "name=$app" | grep -q . && echo running) = "running" ]]; then
 	hyper stop "$app"
@@ -13,7 +13,7 @@ rm -rf _site
 mkdir _site
 
 bundle install 
-bundle exec jekyll build -q
+bundle exec jekyll build -q -d _site
 
 docker build -t hyperjekyll . 
 docker tag hyperjekyll greyhoundforty/hyperjekyll
