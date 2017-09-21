@@ -27,8 +27,8 @@ apphome='$HOME/Repos/greyhoundfortydotcom'
 
 if [[ $(hyper ps -q --filter "name=$app" | grep -q . && echo running) = "running" ]]; then
     hyper stop "$app"
-      hyper rm "$app"
-      fi
+    hyper rm "$app"
+fi
 
 cd "$apphome"
 rm -rf _site
@@ -44,4 +44,6 @@ docker push greyhoundforty/hyperjekyll
 hyper pull greyhoundforty/hyperjekyll
 hyper run -d --name=hyperjekyll -p 80:80 greyhoundforty/hyperjekyll
 hyper fip attach greyhoundforty hyperjekyll
+
+for i in $(hyper images -f "dangling=true" -q); do hyper rmi "$i";done
 ```
