@@ -22,3 +22,5 @@ docker push greyhoundforty/hyperjekyll
 hyper pull greyhoundforty/hyperjekyll
 hyper run -d --name=hyperjekyll -p 80:80 greyhoundforty/hyperjekyll
 hyper fip attach greyhoundforty hyperjekyll
+
+# for i in $(hyper images | grep -v latest | awk '{print $3}' | grep -v IMAGE); do hyper rmi "$i";done
