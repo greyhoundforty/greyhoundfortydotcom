@@ -9,7 +9,7 @@ I am posting this video for 2 reasons:
 
 1) This is probably my favorite track on their most recent album. (Yes I am old, I still say album)
 
-2) The lyrics of the song are about suicide and depression. The song vocalizes some of the more depressing thoughts and actions in an effort to let the listener know they are not alone. Arcade Fire is saying "we understand you" to their fans and the world at large. I've had people in my life that have suffered from depression and feelings of isolation and self-loathing. Knowing that other people out there feel the same way can help them feel connected to something larger than just what they see when "Stand in the mirror and wait for the feedback". 
+2) The lyrics of the song are about suicide and depression. The song vocalizes some of the more depressing thoughts and actions in an effort to let the listener know they are not alone. Arcade Fire is saying "we understand you" to their fans and the world at large. I've had people in my life that have suffered from depression and feelings of isolation and self-loathing. Knowing that other people out there feel the same way can help them feel connected to something larger than just what they see when they _"Stand in the mirror and wait for the feedback"_. 
 
 > Some girls hate themselves  
 Hide under the covers with sleeping pills and  
