@@ -25,6 +25,7 @@ git push
 app=hyperjekyll
 apphome='$HOME/Repos/greyhoundfortydotcom'
 
+# If app is already running kill the container
 if [[ $(hyper ps -q --filter "name=$app" | grep -q . && echo running) = "running" ]]; then
     hyper stop "$app"
     hyper rm "$app"
@@ -34,6 +35,7 @@ cd "$apphome"
 rm -rf _site
 mkdir _site
 
+# Build jekyll site
 bundle install 
 bundle exec jekyll build -q -d _site
 
