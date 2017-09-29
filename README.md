@@ -1,4 +1,4 @@
-# greyhoundforty dot com
+# greyhoundforty.com
 
 The repository for [greyhoundforty.com](http://greyhoundforty.com). This site uses a Git Post Commit hook to run a deploy script which in turn builds a docker container and pushes it to [hyper.sh](https://hyper.sh). 
 
