@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+## Put some logic here to check that docker is running 
+
+docker login -u "$DOCKERHUB_USERNAME" -p "$DOCKERHUB_PASSWORD"
+
 app=hyperjekyll
 apphome='$HOME/Repos/greyhoundfortydotcom'
 
