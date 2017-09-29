@@ -1,5 +1,5 @@
 ---
-title: Weekly Playlist #2
+title: Weekly Playlist Number 2
 date: 2017-09-29 14:25:23
 ---
 
