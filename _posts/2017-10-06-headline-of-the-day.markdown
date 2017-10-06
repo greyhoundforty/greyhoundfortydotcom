@@ -1,0 +1,6 @@
+---
+title: Headline of the day
+layout: post
+---
+
+Headline of the day award goes to the Sun Sentinel: [Killer clown takedown is final act in explosive love triangle, cops say](http://www.sun-sentinel.com/local/palm-beach/fl-pn-clown-murder-case-folo-20170927-story.html)
